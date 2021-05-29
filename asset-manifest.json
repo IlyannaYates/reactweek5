@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/reactweek5/static/css/main.d9fcb2d4.chunk.css",
+    "main.js": "/reactweek5/static/js/main.bdf6cf57.chunk.js",
+    "main.js.map": "/reactweek5/static/js/main.bdf6cf57.chunk.js.map",
+    "runtime-main.js": "/reactweek5/static/js/runtime-main.baa501a1.js",
+    "runtime-main.js.map": "/reactweek5/static/js/runtime-main.baa501a1.js.map",
+    "static/js/2.2fa244bb.chunk.js": "/reactweek5/static/js/2.2fa244bb.chunk.js",
+    "static/js/2.2fa244bb.chunk.js.map": "/reactweek5/static/js/2.2fa244bb.chunk.js.map",
+    "static/js/3.d92654c1.chunk.js": "/reactweek5/static/js/3.d92654c1.chunk.js",
+    "static/js/3.d92654c1.chunk.js.map": "/reactweek5/static/js/3.d92654c1.chunk.js.map",
+    "index.html": "/reactweek5/index.html",
+    "static/css/main.d9fcb2d4.chunk.css.map": "/reactweek5/static/css/main.d9fcb2d4.chunk.css.map",
+    "static/js/2.2fa244bb.chunk.js.LICENSE.txt": "/reactweek5/static/js/2.2fa244bb.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/reactweek5/static/media/bg-intro-desktop.059183ee.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.baa501a1.js",
+    "static/js/2.2fa244bb.chunk.js",
+    "static/css/main.d9fcb2d4.chunk.css",
+    "static/js/main.bdf6cf57.chunk.js"
+  ]
+}
